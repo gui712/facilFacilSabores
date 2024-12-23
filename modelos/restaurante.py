@@ -26,10 +26,3 @@ class Restaurante:
         self._ativo = not self._ativo
 
 
-restaurante_praca = Restaurante('Praça', 'Gourmet')
-restaurante_praca.alternar_estado()
-restaurante_pizza = Restaurante('Gato Veio','Pizza')
-
-
-Restaurante.listar_restaurantes()
-
