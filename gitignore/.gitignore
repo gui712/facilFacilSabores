@@ -11,6 +11,11 @@ out/
 .factorypath
 .project
 .settings
+
+### Python ###
+__pycache__/
+*.py[cod]
+*$py.class
 .springBeans
 .sts4-cache
 .idea
